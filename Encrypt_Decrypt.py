@@ -1,4 +1,4 @@
-#hi
+
 import wave
 
 def audio_to_binary(input_file, output_file):
